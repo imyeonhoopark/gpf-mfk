@@ -1,0 +1,5 @@
+version: "1.0"
+mhe:
+  name: lsp
+  enabled: true
+  config: audio
